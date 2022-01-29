@@ -13,7 +13,6 @@ mongoose.connect(process.env.MONGODB_URL,{
 // const me = new User({
 //     name: 'Abisola',
 //     email: 'Abisola@gMAIL.com  ',
-//     password:'test1234 '
 // })
 
 // me.save().then((result) => {
